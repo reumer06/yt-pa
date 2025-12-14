@@ -1,6 +1,6 @@
-# YouTube Playback Timer Adjuster
+# Youtube Playback Adjuster
 
-A Firefox extension that overlays YouTube's video timer with adjusted time based on playback speed.
+A browser extension that overlays YouTube's video timer with adjusted time based on playback speed.
 
 ## Build Instructions
 
@@ -19,6 +19,12 @@ npm run build
    - Click "This Firefox"
    - Click "Load Temporary Add-on"
    - Select the `manifest.json` file from the project directory
+
+4. Load in Microsoft Edge:
+   - Open Edge and navigate to `edge://extensions/`
+   - Enable "Developer mode" (toggle in the left sidebar)
+   - Click "Load unpacked"
+   - Select the project directory
 
 ## Usage
 
