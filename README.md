@@ -1,6 +1,7 @@
 # Youtube Playback Adjuster
 
 A browser extension that overlays YouTube's video timer with adjusted time based on playback speed.
+> **Note:** Occasionally, the extension may not display correctly because YouTube prevents overlays on the timer. If this happens, simply reload the extension and refresh the page - this usually resolves the issue.
 
 ## Build Instructions
 
