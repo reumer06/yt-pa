@@ -24,9 +24,7 @@ npm run build
 ## Installation
 
 ### Firefox
-
-* Available on **Firefox Add-ons**:
-  [https://addons.mozilla.org/en-US/firefox/addon/yt-playback-adjuster/](https://addons.mozilla.org/en-US/firefox/addon/yt-playback-adjuster/)
+- Available on **[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/yt-playback-adjuster/)**
 
 **Manual loading (temporary):**
 
@@ -39,8 +37,7 @@ npm run build
 
 ### Microsoft Edge
 
-* Available on **Microsoft Edge Add-ons**:
-  [https://microsoftedge.microsoft.com/addons/detail/yt-playback-adjuster/geimlclipbdbamkcoemaokmmkmobohoo](https://microsoftedge.microsoft.com/addons/detail/yt-playback-adjuster/geimlclipbdbamkcoemaokmmkmobohoo)
+- Available on **[Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/yt-playback-adjuster/geimlclipbdbamkcoemaokmmkmobohoo)**
 
 **Manual loading:**
 
