@@ -1,4 +1,4 @@
-# Youtube Playback Adjuster
+# YouTube Playback Adjuster
 
 A browser extension that overlays YouTube’s video timer with time adjusted according to the current playback speed.
 
