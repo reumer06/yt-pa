@@ -1,18 +1,12 @@
 {
   "manifest_version": 3,
-  "name": "YT playback adjuster",
-  "version": "1.0.0",
-  "description": "Adjusts YouTube video timer based on playback speed",
-
-  "permissions": [
-    "activeTab"
-  ],
-
+  "name": "yt-pa",
+  "version": "1.0",
+  "permissions": ["tabs"],
   "content_scripts": [
     {
       "matches": ["*://*.youtube.com/*"],
-      "js": ["content.js"],
-      "run_at": "document_end"
+      "js": ["src/index.js"]
     }
   ]
 }

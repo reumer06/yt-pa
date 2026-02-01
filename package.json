@@ -1,13 +1,12 @@
 {
-  "name": "yt-playback-adjuster",
-  "version": "1.0.0",
-  "description": "Firefox extension to adjust YouTube playback timer based on speed",
-  "scripts": {
-    "build": "tsc && npm run copy",
-    "copy": "powershell -Command \"Copy-Item dist/content.js .; Copy-Item manifest.json dist/\"",
-    "watch": "tsc --watch"
-  },
+  "name": "yt-pa",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
   "devDependencies": {
-    "typescript": "^5.3.3"
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
   }
 }
