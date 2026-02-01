@@ -2,23 +2,6 @@
 
 A browser extension that overlays YouTube’s video timer with time adjusted according to the current playback speed.
 
-> **Note:** YouTube sometimes blocks timer overlays. If the adjusted timer does not appear, reload the extension and refresh the page. This is a YouTube limitation, not a bug.
-
----
-
-## Build Instructions
-
-### 1. Install dependencies
-```bash
-npm install
-````
-
-### 2. Build the extension
-
-```bash
-npm run build
-```
-
 ---
 
 ## Installation
@@ -51,7 +34,7 @@ npm run build
 ## Usage
 
 Install the extension and open any YouTube video.
-Change the playback speed — the timer updates automatically to reflect the adjusted watch time.
+Change the playback speed the timer updates automatically to reflect the adjusted watch time.
 
 ---
 
